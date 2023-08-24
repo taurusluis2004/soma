@@ -1,0 +1,2 @@
+# soma
+autoavaliação:total
